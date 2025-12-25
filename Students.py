@@ -10,3 +10,4 @@ for student in Students :
     total += int(Students[student][1])
     counter +=1
 print("Average score:", total / counter)
+print("changes")
