@@ -1,4 +1,6 @@
+# Data files
 
+*.tar.gz
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
