@@ -1,6 +1,6 @@
 # Data files
 */data/
-data/
+*data/
 *.tar.gz
 *.zip
 
