@@ -1,12 +1,3 @@
-# Data files
-*/data/
-*data/
-*.tar.gz
-*.zip
-
-# Model checkpoints
-*.pth
-*.pkl
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
