@@ -1,63 +1,51 @@
 # Machine Learning Engineer Portfolio
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/hamidmatiny/ml-portfolio)](https://github.com/hamidmatiny/ml-portfolio/commits/main)
+[![GitHub last commit](https://img.shields.io/github/last-commit/hamidmatiny/ML_Portfolio)](https://github.com/hamidmatiny/ML_Portfolio/commits/main)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3+-f7931e.svg)](https://scikit-learn.org/)
 
-Welcome to my **Machine Learning Engineer Portfolio**! This repository documents my structured journey toward becoming a professional ML engineer capable of building, optimizing, and deploying production-grade models.
+Professional portfolio showcasing my structured journey to becoming a **Machine Learning Engineer** at top-tier companies (Google, OpenAI, NVIDIA, Meta, etc.).
 
-The projects follow a comprehensive, self-paced curriculum covering foundations through advanced topics, including classical ML, deep learning with PyTorch, GPU acceleration (CUDA), MLOps, and specialized applications like **LiDAR-based 3D object detection**.
+This repository follows a rigorous, progressive curriculum with hands-on projects, detailed notebooks, module exams (with scores), and production-ready code. Focus areas include classical ML, deep learning, GPU acceleration, and upcoming advanced topics like **LiDAR-based 3D Object Detection**.
 
-Each module includes hands-on notebooks, detailed explanations, mini-projects, and exam reviews demonstrating mastery of key concepts.
+## Current Progress (December 30, 2025)
 
-## Current Progress (as of December 2025)
+| Module Name                          | Status      | Key Topics                                      | Score   |
+|--------------------------------------|-------------|-------------------------------------------------|---------|
+| Python & Data Fundamentals           | Completed  | Python, NumPy, Pandas, Visualization, Git       | 87%    |
+| Mathematics for Machine Learning     | Completed  | Linear Algebra, Calculus, Probability, Gradients| 94%    |
+| Core Machine Learning                | Completed  | Scikit-learn, Pipelines, Regression, Classification, Clustering | 96%    |
+| Deep Learning Fundamentals           | Completed  | PyTorch, Neural Nets, CNNs, Transfer Learning, GPU/CUDA Intro | 100%   |
+| Advanced Deep Learning               | Next       | RNNs/LSTMs, Transformers, Attention, Generative Models | -      |
+| MLOps & Deployment                   | Upcoming   | Docker, FastAPI, Google App Engine, Monitoring  | -      |
+| CUDA Optimization & Performance      | Upcoming   | Custom Kernels, Tuning                          | -      |
+| Capstone Projects                    | Upcoming   | LiDAR 3D Object Detection, LLM Fine-Tuning      | -      |
+| Interview Preparation                | Upcoming   | System Design, Mock Interviews, Resume Polish   | -      |
 
-| Module | Status                  | Key Topics Covered                          | Score |
-|--------|-------------------------|---------------------------------------------|-------|
-| 1      | Completed              | Python, NumPy, Pandas, Git                  | 87%   |
-| 2      | Completed (Shortened)  | Linear Algebra, Calculus, Gradient Descent, Probability | 94%   |
-| 3      | Completed              | Scikit-learn, Preprocessing, Regression, Classification, Clustering | 96%   |
-| 4      | In Progress            | Deep Learning with PyTorch, Neural Networks, CNNs, CUDA Intro | -     |
-| 5–9    | Upcoming               | Transformers, MLOps, Deployment (App Engine), Advanced Projects (incl. LiDAR Object Detection), Interview Prep | -     |
 
-## Repository Structure
 
 ## Key Skills Demonstrated
 
-- **Programming & Tools**: Python, NumPy, Pandas, Matplotlib, Scikit-learn, PyTorch (in progress)
-- **Mathematics**: Vectors, matrices, dot products, partial derivatives, gradient descent
-- **Classical ML**: Feature engineering, model evaluation (Precision/Recall/F1), hyperparameter tuning, unsupervised learning (K-Means, PCA)
-- **Deep Learning (Upcoming)**: Neural networks, CNNs, transfer learning, GPU acceleration
-- **Best Practices**: Clean code, version control (Git), detailed documentation, reproducible notebooks
+- **Languages & Frameworks**: Python, PyTorch, Scikit-learn, NumPy, Pandas
+- **Core ML**: End-to-end pipelines, evaluation metrics, hyperparameter tuning
+- **Deep Learning**: Custom neural networks, CNNs, transfer learning, GPU training
+- **Best Practices**: Clean code, Git versioning, reproducible Colab notebooks, detailed documentation
 
-## Upcoming Highlights
+## How to Run
 
-- Convolutional Neural Networks on CIFAR-10
-- GPU-accelerated training with CUDA in PyTorch
-- End-to-end MLOps pipeline with deployment on Google App Engine
-- Capstone: **LiDAR-based 3D Object Detection** (Point clouds, KITTI/nuScenes dataset, modern architectures like PointPillars)
+All notebooks run in **Google Colab** (free GPUs):
+1. Click any `.ipynb` on GitHub
+2. "Open in Colab"
+3. Execute cells
 
-## How to Run the Notebooks
+## Future Highlights
 
-All notebooks are designed to run in **Google Colab** (free GPU access available):
+- Transformer architectures and modern LLMs
+- Production deployment on Google App Engine
+- **Capstone: LiDAR-based 3D Object Detection** (Point clouds, KITTI/nuScenes, PointPillars/OpenPCDet)
 
-1. Open any `.ipynb` file on GitHub
-2. Click "Open in Colab" badge (or manually copy the link)
-3. Run cells sequentially
+Open to feedback and collaboration!
 
-No local installation required for exploration.
-
-## About Me
-
-I'm on a focused journey to become a Machine Learning Engineer at top-tier companies (Google, OpenAI, NVIDIA, Meta, etc.). This portfolio showcases consistent progress, deep understanding, and production-ready skills.
-
-Feedback, suggestions, or collaboration ideas are welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-**Stars and forks appreciated** ⭐ – they motivate continued growth!
+**Stars appreciated** ⭐ – tracking my growth toward top ML engineering roles.
