@@ -12,17 +12,14 @@ This repository follows a rigorous, progressive curriculum with hands-on project
 
 ## Current Progress (December 30, 2025)
 
-| Module Name                          | Status      | Key Topics                                      | Score   |
-|--------------------------------------|-------------|-------------------------------------------------|---------|
-| Python & Data Fundamentals           | Completed  | Python, NumPy, Pandas, Visualization, Git       | 87%    |
-| Mathematics for Machine Learning     | Completed  | Linear Algebra, Calculus, Probability, Gradients| 94%    |
-| Core Machine Learning                | Completed  | Scikit-learn, Pipelines, Regression, Classification, Clustering | 96%    |
-| Deep Learning Fundamentals           | Completed  | PyTorch, Neural Nets, CNNs, Transfer Learning, GPU/CUDA Intro | 100%   |
-| Advanced Deep Learning               | Next       | RNNs/LSTMs, Transformers, Attention, Generative Models | -      |
-| MLOps & Deployment                   | Upcoming   | Docker, FastAPI, Google App Engine, Monitoring  | -      |
-| CUDA Optimization & Performance      | Upcoming   | Custom Kernels, Tuning                          | -      |
-| Capstone Projects                    | Upcoming   | LiDAR 3D Object Detection, LLM Fine-Tuning      | -      |
-| Interview Preparation                | Upcoming   | System Design, Mock Interviews, Resume Polish   | -      |
+| Module Name                          | Status      | Key Topics                                      
+|--------------------------------------|-------------|-------------------------------------------------
+| Python & Data Fundamentals           | Completed  | Python, NumPy, Pandas, Visualization, Git       
+| Mathematics for Machine Learning     | Completed  | Linear Algebra, Calculus, Probability, Gradients
+| Core Machine Learning                | Completed  | Scikit-learn, Pipelines, Regression, Classification, Clustering 
+| Deep Learning Fundamentals           | Completed  | PyTorch, Neural Nets, CNNs, Transfer Learning, GPU/CUDA Intro 
+| Advanced Deep Learning               | Next       | RNNs/LSTMs, Transformers, Attention, Generative Models 
+
 
 
 
