@@ -6,7 +6,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3+-f7931e.svg)](https://scikit-learn.org/)
 
-Professional portfolio showcasing my structured journey to becoming a **Machine Learning Engineer** at top-tier companies (Google, OpenAI, NVIDIA, Meta, etc.).
+Professional portfolio showcasing my structured journey to becoming a **Machine Learning Engineer**.
 
 This repository follows a rigorous, progressive curriculum with hands-on projects, detailed notebooks, module exams (with scores), and production-ready code. Focus areas include classical ML, deep learning, GPU acceleration, and upcoming advanced topics like **LiDAR-based 3D Object Detection**.
 
@@ -44,5 +44,3 @@ All notebooks run in **Google Colab** (free GPUs):
 - **Capstone: LiDAR-based 3D Object Detection** (Point clouds, KITTI/nuScenes, PointPillars/OpenPCDet)
 
 Open to feedback and collaboration!
-
-**Stars appreciated** ⭐ – tracking my growth toward top ML engineering roles.
