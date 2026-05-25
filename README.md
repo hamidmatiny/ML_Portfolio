@@ -10,15 +10,15 @@ Professional portfolio showcasing my structured journey to becoming a **Machine 
 
 This repository follows a rigorous, progressive curriculum with hands-on projects, detailed notebooks, module exams (with scores), and production-ready code. Focus areas include classical ML, deep learning, GPU acceleration, and upcoming advanced topics like **LiDAR-based 3D Object Detection**.
 
-## Current Progress (December 30, 2025)
+## Progress
 
-| Module Name                          | Status      | Key Topics                                      
+| Module Name                               | Key Topics                                      
 |--------------------------------------|-------------|-------------------------------------------------
-| Python & Data Fundamentals           | Completed  | Python, NumPy, Pandas, Visualization, Git       
-| Mathematics for Machine Learning     | Completed  | Linear Algebra, Calculus, Probability, Gradients
-| Core Machine Learning                | Completed  | Scikit-learn, Pipelines, Regression, Classification, Clustering 
-| Deep Learning Fundamentals           | Completed  | PyTorch, Neural Nets, CNNs, Transfer Learning, GPU/CUDA Intro 
-| Advanced Deep Learning               | Next       | RNNs/LSTMs, Transformers, Attention, Generative Models 
+| Python & Data Fundamentals            | Python, NumPy, Pandas, Visualization, Git       
+| Mathematics for Machine Learning      | Linear Algebra, Calculus, Probability, Gradients
+| Core Machine Learning                  | Scikit-learn, Pipelines, Regression, Classification, Clustering 
+| Deep Learning Fundamentals             | PyTorch, Neural Nets, CNNs, Transfer Learning, GPU/CUDA Intro 
+| Advanced Deep Learning                    | RNNs/LSTMs, Transformers, Attention, Generative Models 
 
 
 
