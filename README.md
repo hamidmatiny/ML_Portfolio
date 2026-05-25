@@ -12,13 +12,13 @@ This repository follows a rigorous, progressive curriculum with hands-on project
 
 ## Progress
 
-| Module Name                               | Key Topics                                      
-|--------------------------------------|-------------|-------------------------------------------------
-| Python & Data Fundamentals            | Python, NumPy, Pandas, Visualization, Git       
-| Mathematics for Machine Learning      | Linear Algebra, Calculus, Probability, Gradients
-| Core Machine Learning                  | Scikit-learn, Pipelines, Regression, Classification, Clustering 
-| Deep Learning Fundamentals             | PyTorch, Neural Nets, CNNs, Transfer Learning, GPU/CUDA Intro 
-| Advanced Deep Learning                    | RNNs/LSTMs, Transformers, Attention, Generative Models 
+| Module Name                            | Key Topics                                                                 |
+|----------------------------------------|----------------------------------------------------------------------------|
+| Python & Data Fundamentals             | Python, NumPy, Pandas, Visualization, Git                                  |
+| Mathematics for Machine Learning       | Linear Algebra, Calculus, Probability, Gradients                           |
+| Core Machine Learning                  | Scikit-learn, Pipelines, Regression, Classification, Clustering            |
+| Deep Learning Fundamentals             | PyTorch, Neural Nets, CNNs, Transfer Learning, GPU/CUDA Intro              |
+| Advanced Deep Learning                 | RNNs/LSTMs, Transformers, Attention, Generative Models                     |
 
 
 
